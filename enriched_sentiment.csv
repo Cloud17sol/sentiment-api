@@ -1,0 +1,4 @@
+platform,publishedAt,username,text,url,sentiment
+Twitter,2025-06-13T10:30:00Z,elonmusk,"We just launched Starship!",https://twitter.com/elonmusk/status/1,positive
+Twitter,2025-06-12T15:00:00Z,spacex,"Launch window secured",https://twitter.com/spacex/status/2,neutral
+Blog,2025-06-11T12:15:00Z,techcrunch,"The product received mixed reactions",https://techcrunch.com/launch,negative
